@@ -2,7 +2,7 @@
 ## Low-light Image Enhancer from Paired Low-light Instances
 
 ### Introduction
-In this project, we use Ubuntu 16.04.5, Python 3.7, Pytorch 1.12.0 and one NVIDIA RTX 2080Ti GPU.
+In this project, we use Ubuntu 24.04.1 LTS, Python 3.7, Pytorch 1.12.0 and one NVIDIA RTX 2080Ti GPU.
 
 ### Datasets and results
 Training dataset, testing dataset, and our predictions are available at https://drive.google.com/drive/folders/13aCSpL4x0_zYocxBEfOIYNYvnTg3ED0v?usp=sharing
